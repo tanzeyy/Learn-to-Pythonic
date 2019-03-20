@@ -1,2 +1,2 @@
-# python_learning
+# Learn to Pythonic
 Notes in python learning.
